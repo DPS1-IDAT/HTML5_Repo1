@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/11/2019, 08:52:57 PM
+    Author     : Administrador
+*/
+body {
+    padding-left: 11em;
+    color: blueviolet;
+    background-color: #b9db49;
+    font-family: Georgia,"Arial",Times,serif
+    
+}
+
+h1 {
+    font-family: Helvetica,Geneva,Arial,SunSans-Regular,sans-serif
+}
+
+nav {
+      position: absolute ;
+      top : 1em;
+      left: 1em;
+      width: 9em;
+}
+
+nav ul li {
+    background: bisque;
+    margin: 0.5em;
+    padding: 0.3em;
+    border-right: 1em solid black
+}
+
+nav ul li a {
+    text-decoration: none     
+}
+
+aside
+{
+    position: absolute;
+    top: 4em;
+    right: 1em;
+    width: 14em;
+}
+
+aside blockquote
+{
+    background: bisque;
+    margin: 0.5em;
+    padding: 0.3em;
+    border-right: 1em solid red
+}
+
+footer {
+    margin-top: 27em;
+    padding-top: 1em;
+    border-top: thin dotted
+}
